@@ -1,0 +1,11 @@
+env
+me/*.txt
+me/*.pdf
+.venv
+__pycache__/
+me/*.__pycache__
+me/*.pyc
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
