@@ -1,4 +1,4 @@
-env
+.env
 me/*.txt
 me/*.pdf
 .venv
