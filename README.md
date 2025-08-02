@@ -35,6 +35,7 @@ The `env` folder is used to store environment-specific files. This may include:
   - `OPENAI_API_KEY=your_openai_key_here`
   - `GEMINI_URL=your_gemini_url_here`
   - `GEMINI_KEY=your_gemini_key_here`
+  - Add PushOver key, user if push notification functionality has to work
 - Python virtual environment files (if you use `python -m venv env`).
 
 **Important:**
